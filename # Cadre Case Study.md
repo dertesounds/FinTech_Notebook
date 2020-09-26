@@ -12,7 +12,10 @@
 
 ### **Founders**: ***Ryan Williams, Jared Kushner, Joshua Kushner***
 
+
+
 ### **Company Origins**:
+<img alt="Ryan Williams - Insights by Cadre" class="n3VNCb" src="https://secure.gravatar.com/avatar/23807c2256435660b02340321e6f701f?s=512&amp;d=mm&amp;r=g" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 150px; height: 150px; margin px;">
 
 ***Ryan Williams started the company because he wanted everyday people to be able to access Real Estate
 as well as have insight on the markets to build ulitmately build wealth. His goal ultimalely was to build a digital marketplace for alternative finance***
